@@ -22,3 +22,7 @@ What I learn
 7. Set the height of flex container for controlling that of image still keeping aspect ratio at the same time.
 8. Be careful using some properties that are not inherited to their child.
 9. Add "overflow-wrap: break-word" to confine texts inside the specific width.
+
+* Photos are free-to-use images from Pexels, Pixabay.
+
+
